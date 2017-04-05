@@ -1,6 +1,6 @@
 {
-  "name": "winston",
-  "description": "A multi-transport async logging library for Node.js",
+  "name": "swarm-winston",
+  "description": "A multi-transport async logging library for Node.js, adapted for swarms ",
   "version": "2.2.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
